@@ -1,0 +1,2 @@
+F:/papon Sir Mobile Application and design/Quiz App (QuizCrafter)/android/app/.cxx/Debug/126y494i/x86/CMakeFiles/edit_cache.dir
+F:/papon Sir Mobile Application and design/Quiz App (QuizCrafter)/android/app/.cxx/Debug/126y494i/x86/CMakeFiles/rebuild_cache.dir
